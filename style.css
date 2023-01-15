@@ -5,6 +5,7 @@
 
 /* progress bar */
 .progressbar{
+    /* counter reset */
     counter-reset: step;
 }
 .progressbar li{
