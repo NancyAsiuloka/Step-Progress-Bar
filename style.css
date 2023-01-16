@@ -3,7 +3,6 @@
     width: 100%;
 }
 
-/* progress bar */
 .progressbar{
     counter-reset: step;
 }
